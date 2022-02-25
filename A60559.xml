@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A trumpet sounded in the ears of persecutors with lowing of oxen and cows, bleating of sheep, neighing of horses, ratlings [sic] of pots, kettles, skillets, dishes and pans taken from innocent people for confessing Christ Jesus, Gods everlasting way out of evil ... / [by] Stephen Smith.</title>
+            <author>Smith, Stephen, 1623-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60559</idno>
+            <idno type="STC">Wing S4216</idno>
+            <idno type="STC">ESTC R30645</idno>
+            <idno type="EEBO-CITATION">11380251</idno>
+            <idno type="OCLC">ocm 11380251</idno>
+            <idno type="VID">47667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1470:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A trumpet sounded in the ears of persecutors with lowing of oxen and cows, bleating of sheep, neighing of horses, ratlings [sic] of pots, kettles, skillets, dishes and pans taken from innocent people for confessing Christ Jesus, Gods everlasting way out of evil ... / [by] Stephen Smith.</title>
+                  <author>Smith, Stephen, 1623-1678.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages cropped with slight loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47667:1"/>
+            <p>A TRUMPET Sounded in the Ears OF PERSECUTORS;</p>
+            <p>WITH Lowing of Oxen, and Cows; Bleating of Sheep; Neighing of Horſes; Ratlings of Pots, Kettles, Skillets, Diſhes, and Pans.</p>
+            <p>Taken from an Innocent People, for Confeſſing Chriſt Jeſus, Gods Everlaſting WAY out of Evil; and for their Meeting together in his Name, where Gods Preſence is felt, to Support, and carry above the fear of Man.</p>
+            <p>To Awaken them out of their Security, which whilſt they have been a Sleep, they have taken up in Malice and Envy.</p>
+            <p>Stephen Smith.</p>
+            <q>
+               <bibl>Iſa. 51.22.23.</bibl> 
+               <p>Thus ſaith the Lord God, even God that pleadeth the Cauſe of his People, Behold I have taken out of thine hand the Cup of Trembling, even the Dreggs of the Cup of my Wrath, thou ſhalt drink it no more—But I will put it into their hand that ſpoil thee, &amp;c.</p>
+            </q>
+            <p>Printed in the Year, 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47667:2"/>
+            <pb facs="tcp:47667:2" rendition="simple:additions"/>
+            <head>A TRUMPET Sounding in the Ears of all Perſecutors, to awaken them out of their dead Sleep, in which they have taken Prey from the Innocent; who have made themſelves Drunk<g ref="char:EOLhyphen"/>en with Malice and Envy, and ſo, <hi>Nabal</hi> like, are ſaying, What are theſe, that we ſhould re<g ref="char:EOLhyphen"/>gard them, &amp;c.</head>
+            <p>Come Perſecutors, Awake, Awake; hearken how the Cows and the Oxen Low in your Ears; when you lie down to Sleep, doth not their Lowing trouble you? And when you riſe, are not you tormented at the Noiſe of their Lowing? Sleep as ſecure as you can, you will be awakened at laſt; and then the Noiſe of the Lowing of Cows and Oxen will ſound in your Ears: In your Lying down, in your Riſing up; in your Eating, and Drinking; in your going about your Buſineſs; it will be a dreadful Noiſe, when the Cauſe of the Innocent, whom you have wronged, comes to be laid before you.</p>
+            <p>Come Perſecutors, Awake, Awake, hearken; Do you not hear the Bleating of Sheep, which have been taken from an innocent People, for keeping the Commands of Jeſus? Stop your Ears as hard as you can, they will be opened at laſt; and their Bleating will be ſo loud ſounded in your Ears, that you cannot avoid the terrible Noiſe thereof.</p>
+            <p>Come Perſecutors, Awake, awake; hearken what a dreadful Noiſe is amongſt the Pots, Kettles, Skillets, Frying-pans, Dripping-pans, Pewter-diſhes, Flagons, Chamber-pots, &amp;c. the which have been taken from an innocent People, for keeping their Conſcience void of Offence towards God and man; that men take offence againſt
+<pb facs="tcp:47667:3"/>the Innocent, when no Proof can be made thereof; that is the ſteps of the Wicked in all Ages: But hearken Perſecutors, ſure you are not ſo faſt a ſleep, but that you may hear the Ratling of theſe things in your Ears; well, they will make a fearful Noiſe at laſt.</p>
+            <p>Come Perſecutors, Awake, awake; open your Eyes, they will be opened at laſt, and then the Beds, Cloths, Corn, Hoggs, Horſes, Butter, Cheeſe, Bacon, &amp; all ſorts of commodities taken from Tradſ<g ref="char:EOLhyphen"/>men, out of their Shops, and working Inſtruments from poor people, Shoe-Leather, and abundance of other things, too long to name; all taken from an Innocent Harmleſs People, who ſeek the good and well-being of all men: At laſt all theſe things ſhall be laid before your Eyes, you ſhall not be able to ſhut them againſt them, nor to ſtop your Ears from the ſeveral dreadful Noiſes; but they muſt ſound in your Ears, and you muſt know, that all theſe doings proceed from a corrupt rotten heart and mind, which is abhorred by the living God.</p>
+            <p>And now after all the Spoil, that hath been made on the Goods and perſons of an innocent People, many of whoſe Bloods have been ſhed in your Streets, witneſs <hi>Horſlydown</hi> Meeting: After all this, the matter of Fact which the innocent People, called <hi>Quakers,</hi> have bin accuſed of, it hath not at all bin prov'd againſt them; neither hath there been any cauſe of a ground given to ſuſpect their Meetings to be any wayes tending to Sedition, &amp;c. they having been always peace<g ref="char:EOLhyphen"/>able on their parts; and therein the Peace and Well-being of all hath been ſought? When you are awakened, and the Book opened where<g ref="char:EOLhyphen"/>in your Wickedneſs is recorded; then will the Meetings of the Peo<g ref="char:EOLhyphen"/>ple of God, called <hi>Quakers,</hi> appear unto you to be as aforeſaid. And ſo all you, who are wondering at a Peoples ſtanding ſtill in ſilence to wait upon the Living God, to receive Counſel from him, that by the ſame they may be guided in the Way and Path of Life: Would it not be good if all would do the ſame? And not run forward in Satans Counſels, in Envy, Hatred, and Malice, till you come to be bitten and devoured, one of, and by another: What is it the near to have the Names of Chriſtians, when there is none of Chriſts Spirit or Nature in you. Be not Deceived, the Living God will not be Mocked; though in his tender Mercy, he hath yet ſpared many Vials of Wrath,
+<pb facs="tcp:47667:3"/>and hath not poured them forth, but inſtead thereof he hath cauſed many to go out in his Dread, and Fear to teſtifie of his Good-will, upon repentance &amp; amendment of life; but that Love having been ſlighted, the contrary will come heavy at laſt; and then your courage and valour which you have exerciſed againſt an innocent People, that will fail you; and Fear, and Trembling, and Amazement, that will ſeize upon you. Brambles and Thornes, whoſe nature is to Tear and Rend, cannot ſtand againſt a conſuming Fire.</p>
+            <p>Come, hearken all that have had a Finger in this Diſh; Have you not betrayed your Maſter? are you not called <hi>Chriſtians?</hi> and ſhould not <hi>Chriſtians</hi> have all one Maſter? Did not the name of <hi>Chriſtian</hi> come by him who is Maſter of all, and hath all Power in Heaven and Earth? And was it not given to them who came out of the Heathen<g ref="char:EOLhyphen"/>iſh nature, who came under the Power, which was manifeſt to de<g ref="char:EOLhyphen"/>ſtroy the works of the Devil, and the nature of the Devils power, which is to Rend, Tear, and Devour; coming in Tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>op, as he did up<g ref="char:EOLhyphen"/>on <hi>Jobs</hi> Goods, in Troops of <hi>Caldeans,</hi> and Bands and Troops of <hi>Sa<g ref="char:EOLhyphen"/>beans?</hi> So have not you, who are in the ſame works now, as the <hi>Sa<g ref="char:EOLhyphen"/>beans</hi> and <hi>Caldeans</hi> were then (in ſpoiling the Goods of innocent men, who love that which is Good, and hate that which is Evil? Have not you betrayed your Lord and Maſter, having given your ſelves up to ſerve a wicked Ruler, he that is prince of the power of Darkneſs, who hath his rule in his Servants, who are departed from their obe<g ref="char:EOLhyphen"/>dience to him who is Lord and Maſter of all, and ought to be ſer<g ref="char:EOLhyphen"/>ved and feared by all; ſince there is no bleſſing, nor any thing that is good, but what is of him, and from him, who created all, and up<g ref="char:EOLhyphen"/>holds all, who is Lord of all bleſſed for ever.</p>
+            <p>Come, be awakened, and hearken; Where do you find (by the Example or Doctrine of Chriſt Jeſus, who is Lord of all, and hath all Power in Heaven and Earth) or do you read of any ſuch works aforementioned, done by him or his Followers? No, no, you have betrayed him, who call him Lord, and yet live in ſuch works of malice and revenge; he taught, and teaches quit contrary, even to learn of him, who is meek and lowly in heart, admoniſhing all to <hi>love one another, and to do good for evil, and to love Enemies;</hi> who dwels with them that are of a contrite and humble ſpirit, who teaches
+<pb facs="tcp:47667:4"/>the humble and meek, and who waſheth and clenſeth his Followers from their filth, as in dayes paſt, ſo to day and for ever. Oh you betrayers of him, who have rendred him a hard Maſter, in that you deny him; for he is righteous juſt and true, and gives power to them that receives him, and obeys him patiently, to bear the reproaches, of the wicked, and to undergo their cruel mockings, ſcoffings and ſpoilings, till his pleaſure is to plead the cauſe of the Innocent, who have no arm of Fleſh, nor carnal Weapon; but their truſt is in him who is Lord of all, unto whom all Tongues muſt confeſs, and every Knee muſt bow; though for a while, the Wicked, with their Ruler the Devil, may be looſe, he muſt be chained at laſt, and caſt into the Lake of Fire, where their part and portion will be, who continues ſerving him (a ſad Bargain.) So all you Betrayers of the juſt holy Prin<g ref="char:EOLhyphen"/>ciple of Light &amp; Life in your own hearts, be awakened, come ſee what a Dream you have been in, and what Dreamers you have followed, who are out of the Way of the Lord, and yet for lucre ſake, by art and policy, keeps people confeſſing they are out of the Way of the Lord, perſwading them its not to be found, or as if there were no ſuch thing.</p>
+            <p>Oh, be awakened, and ſee what a Dream you are in, and what filly Dreamers theſe are, who have put from them Chriſt, the Way<g ref="char:punc">▪</g> the Truth and the Life, by which all that ever comes to God, it muſt be by him, whom many have found, ſo cannot but confeſs him before men, there being no other way out of Evil, and which brings and leads to peace; this is a perfect Way, and tryed Way, into which no Unclean Perſon, nor Envious Perſon can come into; he muſt forſake his Envy, and Uncleanneſs, and all the Devils works, if ever he comes there.</p>
+            <p>Come, don't ſtot your Ears, and ſhut your Eyes, it will all be in vain; for he that is Lord, Maſter and Creator of all, ſees and beholds all, you can hide nothing from him, and he will call you to an Account; then, what can the Betrayers ſay?</p>
+            <p>Oh, you whoſe dayes are not quite over, conſider what you are a doing, and what you are treaſuring up; Malice, Envy and Hatred are from a corrupt root and ground, which is for Curſing.</p>
+            <p>Come, be awakened, ceaſe to do evil, then learn to do well, if hap<g ref="char:EOLhyphen"/>pily you may obtain Mercy; reſtore the Pledge and repent: Keep nothing back that hath been taken by violence.</p>
+            <pb n="7" facs="tcp:47667:4"/>
+            <p>Be awakened, and ſee how filthy your hands are, through Malice and Cruelty, which hath brought a filthy Smell and Curſe upon your Eſtates; a ſad Portion for your Children, for their Fathers to die with their Eſtates entailed in the Curſe, the which can never be removed, from Father or Child, till the cauſe of the Curſe be re<g ref="char:EOLhyphen"/>pented of, and done away, and ſo the hands waſhed in innocency; until which time every one ſhall bear his own Iniquity, becauſe of the accurſed thing that is in their hands.</p>
+            <p>So out of love to Truth, and good will to all is this written, whatever conſtruction you may make thereof, into whoſe hands it may come; yet in his ſight who ſees all things, I am cleared, that herein I wiſh the good of all.</p>
+            <closer>
+               <dateline>
+                  <date>The 10th of the 8th Month, 1670.</date>
+               </dateline>
+               <signed>Stephen Smith.</signed>
+            </closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
